@@ -2,6 +2,7 @@ import streamlit as st
 import random
 from datetime import datetime
 import qrcode
+import html
 from io import BytesIO
 
 st.set_page_config(
